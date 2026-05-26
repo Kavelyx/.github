@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/kavelyx-logo-black.png" alt="KavelyxOS logo" width="360">
+</p>
+
 # Kavelyx
 
 Kavelyx builds private, local-first software for connected homes and personal servers.
