@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/kavelyx-logo-black.png" alt="KavelyxOS logo" width="360">
+  <img src="assets/kavelyx_github_banner_1200x400.png" alt="KavelyxOS banner">
 </p>
 
 # Kavelyx
